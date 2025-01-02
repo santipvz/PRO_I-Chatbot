@@ -1,0 +1,16 @@
+Bienvenido a este programa de consulta médica del abdomen.
+
+Cuando inicie el programa el programa le hará varias preguntas a las que debe responder. Una de ella será los antecedentes familiares.
+
+Después, le preguntará en qué zona del abdomen le duele y tendrá que elegir una por una las zonas numeradas de 1 al 9. Si tiene dudas de cuales son las zonas, puede abrir la fotografía que hay en la carpeta. Pulse enter para pasar a la siguiente parte del programa
+
+El programa le preguntará qué síntomas tiene. Cuando introduzca su respuesta le mostrará los síntomas que entendió de usted. Si no entendió ningún síntoma le dará la opción de ver una lista con todos los síntomas posibles. Pulse enter para pasar a la siguiente parte del programa.
+
+Si el algoritmo calcula que ninguna enfermedad se corresponde con suficiente porcentaje a los síntomas previamente introducidos le dará la opción de escoger más síntomas para añadir.
+
+Finalmente el programa le dará una lista con porcentajes y sus correspondientes enfermedades. Puede elegir ver una gráfica con ellas.
+
+
+Le recordamos la importancia de no tomar ningún tipo de analgésico para poder identificar mejor las enfermedades relacionadas con el abdomen.
+
+Los creadores del programa no se responsabilizan de la incorrecta identificación de enfermedades y sus consecuencias como: daños permanentes o muerte por tratamientos erróneos, daños permanentes o muerte por identificación tardía de la enfermedad, sufrimiento por tratamientos equivocados, más sufrimiento por el tardío tratamiento correcto, etc. Ha sido avisado.
